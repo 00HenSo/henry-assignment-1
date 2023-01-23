@@ -1,0 +1,61 @@
+body {
+	background-color: #3333FF; 
+}
+p {
+	color: white;
+	margin: 10px;
+	font-family: Didot;
+}
+input[type='button-1'] {
+	background-color: darkOrange;
+	padding: 5px 5px;
+	font-weight: bold;
+	border: 0px;
+	border-radius: 50px;
+	color: white;
+}
+.headline-1 {
+	font-size: 10px;
+}
+.headline-2 {
+	font-size: 30px;
+}
+.headline-3 {
+	font-size: 20px;
+}
+input[type='button'] {
+	background-color: #3333FF; 
+	border: 0px;
+	color: white;
+}
+.section-1 {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.section-2 {
+	display: flex;
+}
+.section-3 {
+	display: flex;
+	flex-direction: column
+}
+.section-4 {
+	margin-left: 100px;
+	border: 0px;
+}
+.section-5 {
+	display: flex;
+	flex-direction: row;
+}
+.section-6 {
+	display: flex;
+}
+.section-7 {
+	display: flex;
+	flex-direction: column;
+}	
+.section-8 {
+	display: flex;
+	flex-direction: column;
+}
